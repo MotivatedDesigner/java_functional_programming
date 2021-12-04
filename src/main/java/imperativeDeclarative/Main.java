@@ -1,0 +1,8 @@
+package imperativeDeclarative;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println(Integer.parseInt("23",2));
+    }
+}
